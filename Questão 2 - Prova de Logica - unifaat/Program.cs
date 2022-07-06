@@ -10,6 +10,8 @@ namespace Questão_2___Prova_de_Logica___unifaat
     {
         static void Main(string[] args)
         {
+            //------------- ALUNO : OTÁVIO CARDOSO RA 6322528 -------------
+            
             Console.WriteLine("Digite o número da cidade desejada: \n1 - Atibaia\n2 - Bragança Paulista\n" +
             "3 - Mairiporã\n4 - Nazaré\n5 - Terra Preta\n6 - Extrema\n7 - Vargem");
             int numerocidade = Convert.ToInt32(Console.ReadLine());
